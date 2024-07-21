@@ -10,8 +10,7 @@ This FastAPI application provides endpoints to send and verify One-Time Password
 
 ## Prerequisites
 
-- Python 3.9+
-- Docker (optional, for containerization)
+- Docker (for containerization)
 - Redis server (either locally or using Docker)
 - Twilio (for sending SMS)
 - An SMTP server for sending emails (Gmail used in the example)

@@ -1,4 +1,4 @@
-# FastAPI OTP Service
+# REDIS-FASTAPI OTP_SERVER
 
 This FastAPI application provides endpoints to send and verify One-Time Passwords (OTPs). OTPs can be sent to either a phone number via SMS or an email address using SMTP. Redis is used for storing and managing OTPs with expiration.
 

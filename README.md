@@ -20,8 +20,8 @@ This FastAPI application provides endpoints to send and verify One-Time Password
 
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/Tarekhshaikh13/OTP-SERVER.git
+cd OTP-SERVER
 docker compose up -d
 
 

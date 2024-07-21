@@ -1,0 +1,7 @@
+# Use the official Redis Stack server image as the base image
+FROM redis/redis-stack-server:latest
+
+# Set the required Redis arguments as environment variables
+
+# Specify the command to run Redis with the provided arguments
+
